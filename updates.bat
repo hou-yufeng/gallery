@@ -1,3 +1,3 @@
-git add .
-git commit -m"增加国安图片"
-git push img_bed master
+git add --all
+git commit -m"增加图片"
+git push origin master
